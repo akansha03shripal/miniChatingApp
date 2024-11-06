@@ -1,0 +1,21 @@
+.home{
+    background-color: green;
+    height: 440px;
+    width:200px;
+    border:4px  solid black;
+    border-radius:13px;
+    margin-left:40%;
+    padding: 30px;
+    text-align: center;
+margin-top: 10%;
+
+box-shadow:10px 14px 18px yellow;
+ 
+}
+button{
+    width:70px;
+    height:70px;
+    background-color: yellow;
+    border-radius: 50%;
+    box-shadow:5px 5px px 18px rgb(106, 106, 104);
+}
